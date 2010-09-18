@@ -3,7 +3,7 @@
 	<Word highlight="strong_keyword">material</Word>
 	<Word highlight="strong_keyword">technique</Word>
 	<Word highlight="strong_keyword">pass</Word>
-	<Word highlight="strong_keyword">texure_unit</Word>
+	<Word highlight="strong_keyword">texture_unit</Word>
 	<Word highlight="strong_keyword">fragment_program_ref</Word>
 	<Word highlight="strong_keyword">vertex_program_ref</Word>
 	<!--Keywords-->
