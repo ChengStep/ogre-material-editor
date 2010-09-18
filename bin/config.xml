@@ -1,0 +1,7 @@
+<Config>
+	<OgreManualPath>D:\Ogre\1.7.1\doc\manual</OgreManualPath>
+	<Formats>
+		<Format highlights_file="materials.highlights" words_file="materials.words" file_extensions="material">materials</Format>
+		<Format highlights_file="overlays.highlights" words_file="overlays.words" file_extensions="overlay">overlays</Format>
+	</Formats>
+</Config>

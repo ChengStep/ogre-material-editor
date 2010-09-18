@@ -1,0 +1,200 @@
+<Words>
+	<!--Strong Keywords-->
+	<Word highlight="strong_keyword">material</Word>
+	<Word highlight="strong_keyword">technique</Word>
+	<Word highlight="strong_keyword">pass</Word>
+	<Word highlight="strong_keyword">texure_unit</Word>
+	<Word highlight="strong_keyword">fragment_program_ref</Word>
+	<Word highlight="strong_keyword">vertex_program_ref</Word>
+	<!--Keywords-->
+	<Word highlight="keyword" documentation="manual_15.html">scheme</Word>
+	<Word highlight="keyword" documentation="manual_15.html">lod_index</Word>
+	<Word highlight="keyword" documentation="manual_15.html">lod_distance</Word>
+	<Word highlight="keyword" documentation="manual_16.html">ambient</Word>
+	<Word highlight="keyword" documentation="manual_16.html">diffuse</Word>
+	<Word highlight="keyword" documentation="manual_16.html">specular</Word>
+	<Word highlight="keyword" documentation="manual_16.html">emissive</Word>
+	<Word highlight="keyword" documentation="manual_16.html">scene_blend</Word>
+	<Word highlight="keyword" documentation="manual_16.html">depth_check</Word>
+	<Word highlight="keyword" documentation="manual_16.html">depth_write</Word>
+	<Word highlight="keyword" documentation="manual_16.html">depth_func</Word>
+	<Word highlight="keyword" documentation="manual_16.html">depth_bias</Word>
+	<Word highlight="keyword" documentation="manual_16.html">alpha_rejection</Word>
+	<Word highlight="keyword" documentation="manual_16.html">cull_hardware</Word>
+	<Word highlight="keyword" documentation="manual_16.html">cull_software</Word>
+	<Word highlight="keyword" documentation="manual_16.html">lighting</Word>
+	<Word highlight="keyword" documentation="manual_16.html">shading</Word>
+	<Word highlight="keyword" documentation="manual_16.html">polygon_mode</Word>
+	<Word highlight="keyword" documentation="manual_16.html">fog_override</Word>
+	<Word highlight="keyword" documentation="manual_16.html">colour_write</Word>
+	<Word highlight="keyword" documentation="manual_16.html">max_lights</Word>
+	<Word highlight="keyword" documentation="manual_16.html">start_light</Word>
+	<Word highlight="keyword" documentation="manual_16.html">iteration</Word>
+	<Word highlight="keyword" documentation="manual_16.html">point_size</Word>
+	<Word highlight="keyword" documentation="manual_16.html">point_sprites</Word>
+	<Word highlight="keyword" documentation="manual_16.html">point_size_attenuation</Word>
+	<Word highlight="keyword" documentation="manual_16.html">point_size_min</Word>
+	<Word highlight="keyword" documentation="manual_16.html">point_size_max</Word>
+	<Word highlight="keyword" documentation="manual_17.html">texture_alias</Word>
+	<Word highlight="keyword" documentation="manual_17.html">texture</Word>
+	<Word highlight="keyword" documentation="manual_17.html">anim_texture</Word>
+	<Word highlight="keyword" documentation="manual_17.html">cubic_texture</Word>
+	<Word highlight="keyword" documentation="manual_17.html">tex_coord_set</Word>
+	<Word highlight="keyword" documentation="manual_17.html">tex_address_mode</Word>
+	<Word highlight="keyword" documentation="manual_17.html">tex_border_colour</Word>
+	<Word highlight="keyword" documentation="manual_17.html">filtering</Word>
+	<Word highlight="keyword" documentation="manual_17.html">max_anisotropy</Word>
+	<Word highlight="keyword" documentation="manual_17.html">mipmap_bias</Word>
+	<Word highlight="keyword" documentation="manual_17.html">colour_op</Word>
+	<Word highlight="keyword" documentation="manual_17.html">colour_op_ex</Word>
+	<Word highlight="keyword" documentation="manual_17.html">colour_op_multipass_fallback</Word>
+	<Word highlight="keyword" documentation="manual_17.html">alpha_op_ex</Word>
+	<Word highlight="keyword" documentation="manual_17.html">env_map</Word>
+	<Word highlight="keyword" documentation="manual_17.html">scroll</Word>
+	<Word highlight="keyword" documentation="manual_17.html">scroll_anim</Word>
+	<Word highlight="keyword" documentation="manual_17.html">rotate</Word>
+	<Word highlight="keyword" documentation="manual_17.html">rotate_anim</Word>
+	<Word highlight="keyword" documentation="manual_17.html">scale</Word>
+	<Word highlight="keyword" documentation="manual_17.html">wave_xform</Word>
+	<Word highlight="keyword" documentation="manual_17.html">transform</Word>
+	<Word highlight="keyword" documentation="manual_17.html">binding_type</Word>
+	<Word highlight="keyword" documentation="manual_17.html">content_type</Word>
+	<Word highlight="keyword" documentation="manual_23.html">param_indexed</Word>
+	<Word highlight="keyword" documentation="manual_23.html">param_indexed_auto</Word>
+	<Word highlight="keyword" documentation="manual_23.html">param_named</Word>
+	<Word highlight="keyword" documentation="manual_23.html">param_named_auto</Word>
+	<!--Types-->
+	<Word highlight="type">float1</Word>
+	<Word highlight="type">float2</Word>
+	<Word highlight="type">float3</Word>
+	<Word highlight="type">float4</Word>
+	<Word highlight="type">int1</Word>
+	<Word highlight="type">int2</Word>
+	<Word highlight="type">int3</Word>
+	<Word highlight="type">int4</Word>
+	<Word highlight="type">matrix4x4</Word>
+	<!--Value Codes-->
+	<Word highlight="value_code">world_matrix</Word>
+	<Word highlight="value_code">inverse_world_matrix</Word>
+	<Word highlight="value_code">transpose_world_matrix</Word>
+	<Word highlight="value_code">inverse_transpose_world_matrix</Word>
+	<Word highlight="value_code">world_matrix_array_3x4</Word>
+	<Word highlight="value_code">view_matrix</Word>
+	<Word highlight="value_code">inverse_view_matrix</Word>
+	<Word highlight="value_code">transpose_view_matrix</Word>
+	<Word highlight="value_code">inverse_transpose_view_matrix</Word>
+	<Word highlight="value_code">projection_matrix</Word>
+	<Word highlight="value_code">inverse_projection_matrix</Word>
+	<Word highlight="value_code">transpose_projection_matrix</Word>
+	<Word highlight="value_code">inverse_transpose_projection_matrix</Word>
+	<Word highlight="value_code">worldview_matrix</Word>
+	<Word highlight="value_code">inverse_worldview_matrix</Word>
+	<Word highlight="value_code">transpose_worldview_matrix</Word>
+	<Word highlight="value_code">inverse_transpose_worldview_matrix</Word>
+	<Word highlight="value_code">viewproj_matrix</Word>
+	<Word highlight="value_code">inverse_viewproj_matrix</Word>
+	<Word highlight="value_code">transpose_viewproj_matrix</Word>
+	<Word highlight="value_code">inverse_transpose_viewproj_matrix</Word>
+	<Word highlight="value_code">worldviewproj_matrix</Word>
+	<Word highlight="value_code">inverse_worldviewproj_matrix</Word>
+	<Word highlight="value_code">transpose_worldviewproj_matrix</Word>
+	<Word highlight="value_code">inverse_transpose_worldviewproj_matrix</Word>
+	<Word highlight="value_code">texture_matrix</Word>
+	<Word highlight="value_code">render_target_flipping</Word>
+	<Word highlight="value_code">light_diffuse_colour</Word>
+	<Word highlight="value_code">light_specular_colour</Word>
+	<Word highlight="value_code">light_attenuation</Word>
+	<Word highlight="value_code">spotlight_params</Word>
+	<Word highlight="value_code">light_position</Word>
+	<Word highlight="value_code">light_direction</Word>
+	<Word highlight="value_code">light_position_object_space</Word>
+	<Word highlight="value_code">light_direction_object_space</Word>
+	<Word highlight="value_code">light_distance_object_space</Word>
+	<Word highlight="value_code">light_position_view_space</Word>
+	<Word highlight="value_code">light_direction_view_space</Word>
+	<Word highlight="value_code">light_power</Word>
+	<Word highlight="value_code">light_diffuse_colour_power_scaled</Word>
+	<Word highlight="value_code">light_specular_colour_power_scaled</Word>
+	<Word highlight="value_code">light_number</Word>
+	<Word highlight="value_code">light_diffuse_colour_array</Word>
+	<Word highlight="value_code">light_specular_colour_array</Word>
+	<Word highlight="value_code">light_diffuse_colour_power_scaled_array</Word>
+	<Word highlight="value_code">light_specular_colour_power_scaled_array</Word>
+	<Word highlight="value_code">light_attenuation_array</Word>
+	<Word highlight="value_code">spotlight_params_array</Word>
+	<Word highlight="value_code">light_position_array</Word>
+	<Word highlight="value_code">light_direction_array</Word>
+	<Word highlight="value_code">light_position_object_space_array</Word>
+	<Word highlight="value_code">light_direction_object_space_array</Word>
+	<Word highlight="value_code">light_distance_object_space_array</Word>
+	<Word highlight="value_code">light_position_view_space_array</Word>
+	<Word highlight="value_code">light_direction_view_space_array</Word>
+	<Word highlight="value_code">light_power_array</Word>
+	<Word highlight="value_code">light_count</Word>
+	<Word highlight="value_code">light_casts_shadows</Word>
+	<Word highlight="value_code">ambient_light_colour</Word>
+	<Word highlight="value_code">surface_ambient_colour</Word>
+	<Word highlight="value_code">surface_diffuse_colour</Word>
+	<Word highlight="value_code">surface_specular_colour</Word>
+	<Word highlight="value_code">surface_emissive_colour</Word>
+	<Word highlight="value_code">surface_shininess</Word>
+	<Word highlight="value_code">derived_ambient_light_colour</Word>
+	<Word highlight="value_code">derived_scene_colour</Word>
+	<Word highlight="value_code">derived_light_diffuse_colour</Word>
+	<Word highlight="value_code">derived_light_specular_colour</Word>
+	<Word highlight="value_code">derived_light_diffuse_colour_array</Word>
+	<Word highlight="value_code">derived_light_specular_colour_array</Word>
+	<Word highlight="value_code">fog_colour</Word>
+	<Word highlight="value_code">fog_params</Word>
+	<Word highlight="value_code">camera_position</Word>
+	<Word highlight="value_code">camera_position_object_space</Word>
+	<Word highlight="value_code">lod_camera_position</Word>
+	<Word highlight="value_code">lod_camera_position_object_space</Word>
+	<Word highlight="value_code">time</Word>
+	<Word highlight="value_code">time_0_x</Word>
+	<Word highlight="value_code">costime_0_x</Word>
+	<Word highlight="value_code">sintime_0_x</Word>
+	<Word highlight="value_code">tantime_0_x</Word>
+	<Word highlight="value_code">time_0_x_packed</Word>
+	<Word highlight="value_code">time_0_1</Word>
+	<Word highlight="value_code">costime_0_1</Word>
+	<Word highlight="value_code">sintime_0_1</Word>
+	<Word highlight="value_code">tantime_0_1</Word>
+	<Word highlight="value_code">time_0_1_packed</Word>
+	<Word highlight="value_code">time_0_2pi</Word>
+	<Word highlight="value_code">costime_0_2pi</Word>
+	<Word highlight="value_code">sintime_0_2pi</Word>
+	<Word highlight="value_code">tantime_0_2pi</Word>
+	<Word highlight="value_code">time_0_2pi_packed</Word>
+	<Word highlight="value_code">frame_time</Word>
+	<Word highlight="value_code">fps</Word>
+	<Word highlight="value_code">viewport_width</Word>
+	<Word highlight="value_code">viewport_height</Word>
+	<Word highlight="value_code">inverse_viewport_width</Word>
+	<Word highlight="value_code">inverse_viewport_height</Word>
+	<Word highlight="value_code">viewport_size</Word>
+	<Word highlight="value_code">texel_offsets</Word>
+	<Word highlight="value_code">view_direction</Word>
+	<Word highlight="value_code">view_side_vector</Word>
+	<Word highlight="value_code">view_up_vector</Word>
+	<Word highlight="value_code">fov</Word>
+	<Word highlight="value_code">near_clip_distance</Word>
+	<Word highlight="value_code">far_clip_distance</Word>
+	<Word highlight="value_code">texture_viewproj_matrix</Word>
+	<Word highlight="value_code">texture_viewproj_matrix_array</Word>
+	<Word highlight="value_code">texture_worldviewproj_matrix</Word>
+	<Word highlight="value_code">texture_worldviewproj_matrix_array</Word>
+	<Word highlight="value_code">spotlight_viewproj_matrix</Word>
+	<Word highlight="value_code">spotlight_worldviewproj_matrix</Word>
+	<Word highlight="value_code">scene_depth_range</Word>
+	<Word highlight="value_code">shadow_scene_depth_range</Word>
+	<Word highlight="value_code">shadow_colour</Word>
+	<Word highlight="value_code">shadow_extrusion_distance</Word>
+	<Word highlight="value_code">texture_size</Word>
+	<Word highlight="value_code">inverse_texture_size</Word>
+	<Word highlight="value_code">packed_texture_size</Word>
+	<Word highlight="value_code">pass_number</Word>
+	<Word highlight="value_code">pass_iteration_number</Word>
+	<Word highlight="value_code">animation_parametric</Word>
+	<Word highlight="value_code">custom </Word>
+</Words>

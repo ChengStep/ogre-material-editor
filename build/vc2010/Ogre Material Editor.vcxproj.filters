@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\moc">
+      <UniqueIdentifier>{7686361d-6cd2-45f5-9aa6-d44b08da882e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\include\ConfigFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\..\include\MainWindow.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\include\TextEditor.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\include\IDE.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\..\include\Highlighter.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\source\moc\moc_IDE.cpp">
+      <Filter>Source Files\moc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\moc\moc_MainWindow.cpp">
+      <Filter>Source Files\moc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\moc\moc_TextEditor.cpp">
+      <Filter>Source Files\moc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\moc\moc_Highlighter.cpp">
+      <Filter>Source Files\moc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\ConfigFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\Highlighter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\IDE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\TextEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

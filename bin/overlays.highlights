@@ -1,0 +1,8 @@
+<Highlights>
+	<Highlight name="keyword" color="#0000FF"/>
+	<Highlight name="strong_keyword" color="#0000FF" bold="true"/>
+	<Highlight name="type" color="#99D9EA"/>
+	<Highlight name="value_code" color="#400040"/>
+	<Highlight name="string" color="#990099"/>
+	<Highlight name="comment" color="#008800" italics="true"/>
+</Highlights>

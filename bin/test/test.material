@@ -1,0 +1,9 @@
+material Test01
+{
+  technique T1
+  {
+    pass P1
+    {
+    }
+  }
+}
